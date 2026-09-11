@@ -244,3 +244,6 @@ This repository serves as the official landing page for Cities in Motion. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Cities in Motion today!**
+
+---
+**Last updated:** 2026-09-11 19:26:55 UTC
