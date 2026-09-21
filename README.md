@@ -246,4 +246,4 @@ This repository serves as the official landing page for Cities in Motion. The so
 **Get the most recent version of Cities in Motion today!**
 
 ---
-**Last updated:** 2026-09-20 22:57:17 UTC
+**Last updated:** 2026-09-21 00:55:15 UTC
